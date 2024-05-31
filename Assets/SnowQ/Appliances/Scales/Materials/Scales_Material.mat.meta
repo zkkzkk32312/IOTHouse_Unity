@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4dc471cd665bcba49a375fc9335443b6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 207650
+  packageName: Realistic scales
+  packageVersion: 1.0
+  assetPath: Assets/SnowQ/Appliances/Scales/Materials/Scales_Material.mat
+  uploadId: 465279
