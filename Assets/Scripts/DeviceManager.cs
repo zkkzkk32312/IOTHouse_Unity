@@ -3,6 +3,7 @@ using UnityEngine;
 using Unity.Cinemachine;
 using DG.Tweening;
 using Sirenix.OdinInspector;
+using System.Linq;
 
 public class DeviceManager : MonoBehaviour
 {
@@ -29,9 +30,18 @@ public class DeviceManager : MonoBehaviour
         cm = FindFirstObjectByType<CinemachineCamera>();
     }
 
-    void Update()
+    public void SelectDevice (string id)
     {
-        
+        if (lastDevice != null)
+        {
+            lastDevice.StopOutline();
+            lastDevice = null;
+        }
+
+        Device device = devices.FirstOrDefault(x => x.ID == id);
+        cm.Target.TrackingTarget.transform.DOMove(device.transform.position, 2f);
+        device.StartOutline();
+        lastDevice = device;
     }
 
     [Button]
