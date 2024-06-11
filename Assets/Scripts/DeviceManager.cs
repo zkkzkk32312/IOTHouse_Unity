@@ -44,18 +44,18 @@ public class DeviceManager : MonoBehaviour
         lastDevice = device;
     }
 
-    [Button]
-    public void SelectDevice (int index)
-    {
-        if (lastDevice != null)
-        {
-            lastDevice.StopOutline();
-            lastDevice = null;
-        }
+    //[Button]
+    //public void SelectDevice (int index)
+    //{
+    //    if (lastDevice != null)
+    //    {
+    //        lastDevice.StopOutline();
+    //        lastDevice = null;
+    //    }
 
-        Device device = devices[index];
-        cm.Target.TrackingTarget.transform.DOMove(device.transform.position, 2f);
-        device.StartOutline();
-        lastDevice = device;
-    }
+    //    Device device = devices[index];
+    //    cm.Target.TrackingTarget.transform.DOMove(device.transform.position, 2f);
+    //    device.StartOutline();
+    //    lastDevice = device;
+    //}
 }
