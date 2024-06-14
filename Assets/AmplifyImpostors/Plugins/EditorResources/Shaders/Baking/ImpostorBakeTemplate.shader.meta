@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f53051a8190f7044fa936bd7fbe116c1
+timeCreated: 1525095235
+licenseType: Store
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 119877
+  packageName: Amplify Impostors
+  packageVersion: 0.9.9.4
+  assetPath: Assets/AmplifyImpostors/Plugins/EditorResources/Shaders/Baking/ImpostorBakeTemplate.shader
+  uploadId: 656678

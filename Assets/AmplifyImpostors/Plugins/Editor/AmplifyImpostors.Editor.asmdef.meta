@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: beb7ced4cc341384592d9187e65da6b5
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 119877
+  packageName: Amplify Impostors
+  packageVersion: 0.9.9.4
+  assetPath: Assets/AmplifyImpostors/Plugins/Editor/AmplifyImpostors.Editor.asmdef
+  uploadId: 656678

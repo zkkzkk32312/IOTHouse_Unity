@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 1e5cc34cc2f367241ac97a4989568b02
+timeCreated: 1517223131
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 119877
+  packageName: Amplify Impostors
+  packageVersion: 0.9.9.4
+  assetPath: Assets/AmplifyImpostors/Plugins/Editor/Inspector/AmplifyImpostorInspector.cs
+  uploadId: 656678

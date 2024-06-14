@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 67791697d2902be4791723b7c780e80d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 119877
+  packageName: Amplify Impostors
+  packageVersion: 0.9.9.4
+  assetPath: Assets/AmplifyImpostors/Examples/Assets/Impostor Assets BIRP/Barrel
+    - Color By Position_Impostor BIRP.asset
+  uploadId: 656678

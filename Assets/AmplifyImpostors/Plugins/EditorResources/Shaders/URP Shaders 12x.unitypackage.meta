@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a51904d3fea17d942a8935be648c3f0d
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 119877
+  packageName: Amplify Impostors
+  packageVersion: 0.9.9.4
+  assetPath: Assets/AmplifyImpostors/Plugins/EditorResources/Shaders/URP Shaders
+    12x.unitypackage
+  uploadId: 656678

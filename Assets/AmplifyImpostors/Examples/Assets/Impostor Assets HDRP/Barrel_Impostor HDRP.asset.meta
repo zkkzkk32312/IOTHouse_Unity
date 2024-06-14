@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 377de520410968d43b3f25dc929bc602
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 119877
+  packageName: Amplify Impostors
+  packageVersion: 0.9.9.4
+  assetPath: Assets/AmplifyImpostors/Examples/Assets/Impostor Assets HDRP/Barrel_Impostor
+    HDRP.asset
+  uploadId: 656678

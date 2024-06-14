@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 806d6cc0f22ee994f8cd901b6718f08d
+timeCreated: 1532429889
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 119877
+  packageName: Amplify Impostors
+  packageVersion: 0.9.9.4
+  assetPath: Assets/AmplifyImpostors/Plugins/EditorResources/Shaders/Runtime/AmplifyImpostorsConfig.cginc
+  uploadId: 656678

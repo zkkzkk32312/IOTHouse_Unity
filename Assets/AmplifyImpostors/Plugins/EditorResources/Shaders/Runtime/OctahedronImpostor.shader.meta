@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 572f9be5706148142b8da6e9de53acdb
+timeCreated: 1521828552
+licenseType: Store
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 119877
+  packageName: Amplify Impostors
+  packageVersion: 0.9.9.4
+  assetPath: Assets/AmplifyImpostors/Plugins/EditorResources/Shaders/Runtime/OctahedronImpostor.shader
+  uploadId: 656678

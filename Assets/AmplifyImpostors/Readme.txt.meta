@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e77c1137e8c6cd744ae9bc43ad6c69c8
+timeCreated: 1481127071
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 119877
+  packageName: Amplify Impostors
+  packageVersion: 0.9.9.4
+  assetPath: Assets/AmplifyImpostors/Readme.txt
+  uploadId: 656678

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 31bd3cd74692f384a916d9d7ea87710d
+timeCreated: 1524073284
+licenseType: Store
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 119877
+  packageName: Amplify Impostors
+  packageVersion: 0.9.9.4
+  assetPath: Assets/AmplifyImpostors/Plugins/EditorResources/Shaders/Baking/ShaderPacker.shader
+  uploadId: 656678

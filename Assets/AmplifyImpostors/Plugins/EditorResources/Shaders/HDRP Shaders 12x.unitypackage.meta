@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 741ca0d5f350e034e84999facc1de789
+timeCreated: 1549294533
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 119877
+  packageName: Amplify Impostors
+  packageVersion: 0.9.9.4
+  assetPath: Assets/AmplifyImpostors/Plugins/EditorResources/Shaders/HDRP Shaders
+    12x.unitypackage
+  uploadId: 656678
