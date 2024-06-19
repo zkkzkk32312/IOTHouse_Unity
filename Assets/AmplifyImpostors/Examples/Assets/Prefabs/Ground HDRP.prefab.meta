@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 18b55e7da955d2245bbe6c7080382197
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 119877
+  packageName: Amplify Impostors
+  packageVersion: 0.9.9.4
+  assetPath: Assets/AmplifyImpostors/Examples/Assets/Prefabs/Ground HDRP.prefab
+  uploadId: 656678

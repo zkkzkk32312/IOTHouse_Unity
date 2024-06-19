@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 8f54ccaf72377ff41a49e3882c8b6e7f
+timeCreated: 1527167385
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 119877
+  packageName: Amplify Impostors
+  packageVersion: 0.9.9.4
+  assetPath: Assets/AmplifyImpostors/Plugins/Scripts/ImpostorBakingTools.cs
+  uploadId: 656678

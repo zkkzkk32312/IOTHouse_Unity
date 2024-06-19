@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 32f7caa019b8743459b7b0ab1fdc3bae
+timeCreated: 1533123553
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 119877
+  packageName: Amplify Impostors
+  packageVersion: 0.9.9.4
+  assetPath: Assets/AmplifyImpostors/Plugins/Scripts/AmplifyImpostorBakePreset.cs
+  uploadId: 656678

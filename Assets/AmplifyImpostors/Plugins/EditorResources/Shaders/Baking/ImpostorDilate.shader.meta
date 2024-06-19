@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 57c23892d43bc9f458360024c5985405
+timeCreated: 1519122216
+licenseType: Store
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 119877
+  packageName: Amplify Impostors
+  packageVersion: 0.9.9.4
+  assetPath: Assets/AmplifyImpostors/Plugins/EditorResources/Shaders/Baking/ImpostorDilate.shader
+  uploadId: 656678

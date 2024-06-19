@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 821be38acbe37c847922cabdcd593fe5
+timeCreated: 1517333254
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 119877
+  packageName: Amplify Impostors
+  packageVersion: 0.9.9.4
+  assetPath: Assets/AmplifyImpostors/Plugins/Scripts/HelperExtensions.cs
+  uploadId: 656678

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c36a092b2f77a6146a1ab23843ac10cb
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 119877
+  packageName: Amplify Impostors
+  packageVersion: 0.9.9.4
+  assetPath: Assets/AmplifyImpostors/Plugins/Editor/ShaderEditorNode/AIToASE.asmdef
+  uploadId: 656678

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6626c3d2653ae3c4e8fd19a49a403f9b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 119877
+  packageName: Amplify Impostors
+  packageVersion: 0.9.9.4
+  assetPath: Assets/AmplifyImpostors/Examples/Assets/Impostor Assets HDRP/Boulder_Impostor
+    HDRP.asset
+  uploadId: 656678

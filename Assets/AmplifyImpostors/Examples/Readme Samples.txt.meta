@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 25f4c2567395ba048875ea6fd52e4a62
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 119877
+  packageName: Amplify Impostors
+  packageVersion: 0.9.9.4
+  assetPath: Assets/AmplifyImpostors/Examples/Readme Samples.txt
+  uploadId: 656678
