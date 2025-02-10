@@ -1,0 +1,12 @@
+name: Trigger Jenkins
+
+on:
+  workflow_dispatch:
+
+jobs:
+  trigger-jenkins:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Jenkins Job
+        run: |
+          curl -X POST "${{ secrets.JENKINS_URL }}/job/IOTHouse_Unity/build?token=${{ secrets.JENKINS_TOKEN }}"
