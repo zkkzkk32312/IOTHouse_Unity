@@ -2,7 +2,8 @@ using UnityEngine;
 
 public class ForceNonDirectionalLightmaps : MonoBehaviour
 {
-    void Awake()
+    [RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.BeforeSceneLoad)]
+    static void ForceLightmapMode()
     {
         //Debug.Log("[LightmapFix] Forcing lightmaps to Non-Directional mode...");
 
